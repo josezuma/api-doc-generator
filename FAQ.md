@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is api-doc-generator?
-A CLI tool for api doc generator.
+Api Doc Generator
 
 ## Dependencies?
 Python stdlib only.

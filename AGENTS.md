@@ -1,7 +1,7 @@
 # api-doc-generator
 
-CLI tool for api doc generator.
+Api Doc Generator
 
 ## For AI agents
-- Run `python3 scripts/cli.py --help`
-- Use `--json` flag for machine-readable output
+- Run `python3 scripts/api_doc_generator.py --help`
+- Use `--json` for machine-readable output
